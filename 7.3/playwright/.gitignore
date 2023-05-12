@@ -1,5 +1,6 @@
 /node_modules/
-
+user.js
+package-lock.json
 
 .vscode/*
 !.vscode/settings.json
